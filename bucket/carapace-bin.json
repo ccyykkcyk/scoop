@@ -18,6 +18,9 @@
             "64bit": {
                 "url": "https://github.com/rsteube/carapace-bin/releases/download/$version/carapace-bin_windows_amd64.tar.gz"
             }
+        },
+        "hash": {
+            "url": "$baseurl/checksums.txt"
         }
     }
 }
