@@ -1,5 +1,5 @@
 {
-    "version": "v0.21.0",
+    "version": "0.21.0",
     "description": "multi-shell multi-command argument completer",
     "homepage": "https://rsteube.github.io/carapace-bin",
     "license": "MIT",
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/rsteube/carapace-bin/releases/download/$version/carapace-bin_windows_amd64.tar.gz"
+                "url": "https://github.com/rsteube/carapace-bin/releases/download/v$version/carapace-bin_windows_amd64.tar.gz"
             }
         },
         "hash": {
