@@ -29,7 +29,8 @@
     "persist": "tdata",
     "checkver": {
         "url": "https://api.github.com/repos/TDesktop-x64/tdesktop/releases",
-        "regex": "releases/tag/v([\\d.]+)"
+        "jsonpath": "$..tag_name",
+        "regex": "v([\\d.]+)"
     },
     "autoupdate": {
         "architecture": {
