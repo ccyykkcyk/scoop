@@ -574,11 +574,6 @@
         ],
         [
             "busybox.exe",
-            "strings",
-            "strings"
-        ],
-        [
-            "busybox.exe",
             "su",
             "su"
         ],
