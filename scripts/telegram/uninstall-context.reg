@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_CURRENT_USER\SOFTWARE\Classes\tg]
+[-HKEY_CURRENT_USER\SOFTWARE\Classes\tg\DefaultIcon]
+[-HKEY_CURRENT_USER\SOFTWARE\Classes\tg\shell]
+[-HKEY_CURRENT_USER\SOFTWARE\Classes\tg\shell\open]
+[-HKEY_CURRENT_USER\SOFTWARE\Classes\tg\shell\open\command]
