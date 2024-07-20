@@ -68,8 +68,8 @@
     },
     "checkver": {
         "url": "https://update.code.visualstudio.com/api/update/win32-x64-archive/insider/latest",
-        "jsonpath": "$..[productVersion,timestamp]",
-        "regex": "^(?<productVersion>.+)\\\\n(?<timestamp>.*)$",
+        "jsonpath": "$..['productVersion','timestamp']",
+        "regex": "(?<productVersion>[\\d.]+-insider).*?(?<timestamp>[\\d]+)",
         "replace": "${productVersion}+${timestamp}"
     },
     "autoupdate": {
