@@ -1,5 +1,5 @@
 {
-    "version": "26.00",
+    "version": "26.01",
     "description": "A multi-format file archiver with high compression ratios",
     "homepage": "https://www.7-zip.org/",
     "license": "LGPL-2.1-or-later",
@@ -9,8 +9,8 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://downloads.sourceforge.net/project/sevenzip/7-Zip/26.00/7z2600-x64.msi",
-            "hash": "sha1:41e7990b056ebaf0d427f2a00bf1aa12b6010975",
+            "url": "https://downloads.sourceforge.net/project/sevenzip/7-Zip/26.01/7z2601-x64.msi",
+            "hash": "sha1:e3043acaf343ce49d2de41ed83d172db9b7bb331",
             "extract_dir": "Files\\7-Zip"
         }
     },
