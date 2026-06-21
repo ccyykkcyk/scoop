@@ -1,12 +1,12 @@
 {
-    "version": "26.05r6166",
+    "version": "26.06r6196",
     "description": "Light-weight Scintilla based text editor for Windows",
     "homepage": "https://github.com/zufuliu/notepad4",
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/zufuliu/notepad4/releases/download/v26.05r6166/Notepad4_HD_i18n_AVX2_v26.05r6166.zip",
-            "hash": "f37928814fea095aad96fd966c8ec0023c9150754061ecc983fc03889c5dca8e"
+            "url": "https://github.com/zufuliu/notepad4/releases/download/v26.06r6196/Notepad4_HD_i18n_AVX2_v26.06r6196.zip",
+            "hash": "899ac2f818e30bc6d7d524accd00c1dbcf97cc3259ab919191bb5655444f86b7"
         }
     },
     "bin": "notepad4.exe",
